@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            UserInput Input = new UserInput();
+            UserInputs Input = new UserInputs();
             Input.fibonacciSeriesProblem(); 
             Input.perfectNumberProblem(); 
             Input.primeNumberProblem(); 
